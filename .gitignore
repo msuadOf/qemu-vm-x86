@@ -1,2 +1,4 @@
 /qemu/*
 /preboot_*
+/edk2/*
+*.iso
